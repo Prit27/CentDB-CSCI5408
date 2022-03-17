@@ -1,0 +1,10 @@
+|Transaction: T1|status: Started|execution time:Wed Dec 08 14:35:51 AST 2021
+|Transaction: T1|status: Committed|execution time:Wed Dec 08 14:35:53 AST 2021
+|Transaction: T1|status: Started|execution time:Wed Dec 08 14:37:49 AST 2021
+|Transaction: Transaction1|status: Started|execution time:Wed Dec 08 15:30:33 AST 2021
+|Transaction: Transaction1|status: Committed|execution time:Wed Dec 08 15:30:34 AST 2021
+|Transaction: Transaction2|status: Started|execution time:Wed Dec 08 15:31:13 AST 2021
+|Transaction: Transaction2|status: Committed|execution time:Wed Dec 08 15:31:38 AST 2021
+|Transaction: Transaction3|status: Started|execution time:Wed Dec 08 15:33:41 AST 2021
+|Transaction: T1|status: Started|execution time:Wed Dec 08 16:21:29 AST 2021
+|Transaction: T1|status: Committed|execution time:Wed Dec 08 16:22:09 AST 2021

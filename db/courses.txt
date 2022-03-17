@@ -1,0 +1,3 @@
+id|fname
+1|computer
+43332|pankti

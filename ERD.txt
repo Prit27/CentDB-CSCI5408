@@ -1,0 +1,9 @@
+
+
+TABLE:  	courses
+COLUMNS:	id,	name,
+
+TABLE:  	students
+COLUMNS:	id(pk),	name,	rillno,
+
+=======Relationships=======

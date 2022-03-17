@@ -1,0 +1,5 @@
+courses|id|int
+courses|name|varchar|64
+students|id|int|pk
+students|name|varchar|64
+students|rillno|int

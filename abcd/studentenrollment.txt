@@ -1,0 +1,2 @@
+id|student_id|course_id
+890693|11|5408

@@ -1,0 +1,34 @@
+database||message|Database school created sucessfully |type|CREATE
+database||message|Database school created sucessfully |type|CREATE
+database|school|message|Database Selected school|type|USE
+database|school|message|Table Created Successfully|type|CREATE
+database|school|message|Table Created Successfully|type|CREATE
+database|school|message|Table Created Successfully|type|CREATE
+database|school|table|students|message|0 row(s) added |type|INSERT
+database|school|table|students|message|0 row(s) added |type|INSERT
+database|school|table|students|message|0 row(s) added |type|INSERT
+database|school|table|students|message|0 row(s) added |type|INSERT
+database|school|table|students|message|0 row(s) added |type|INSERT
+database|school|table|courses|message|0 row(s) added |type|INSERT
+database|school|table|courses|message|0 row(s) added |type|CREATE
+database|school|table|courses|message|Invalid query. Table already exists.|type|CREATE
+database|school|table|courses|message|Invalid query. Table already exists.|type|CREATE
+database|school|table|courses|message|Invalid query. Table already exists.|type|INSERT
+database|school|table|courses|message|Invalid query. Table already exists.|type|CREATE
+database|school|table|courses|message|Invalid query. Table already exists.|type|CREATE
+database|school|table|courses|message|Invalid query. Table already exists.|type|INSERT
+database|school|table|courses|message|Invalid query. Table already exists.|type|CREATE
+database|school|table|courses|message|Invalid query. Table already exists.|type|INSERT
+database|school|table|courses|message|Invalid query. Table already exists.|type|INSERT
+database||message|Database abcd created sucessfully |type|CREATE
+database|abcd|message|Database Selected abcd|type|USE
+database|abcd|message|Table Created Successfully|type|CREATE
+database|abcd|table|studentdata|message|0 row(s) added |type|INSERT
+database|abcd|table|studentdata|message|Table Created Successfully|type|CREATE
+database|abcd|table|courses|message|0 row(s) added |type|INSERT
+database|abcd|table|courses|message|Table Created Successfully|type|CREATE
+database|abcd|table|studentenrollment|message|0 row(s) added |type|INSERT
+database|abcd|table|studentenrollment|message|0 row(s) added |type|INSERT
+database|db|message|Database Selected db|type|USE
+database|db|message|Database Selected db|type|INSERT
+database|db|message|Database Selected db|type|INSERT

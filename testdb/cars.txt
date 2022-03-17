@@ -1,0 +1,3 @@
+id|company|model
+1|tesla|model-S
+2|bmw|

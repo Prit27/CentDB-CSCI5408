@@ -1,0 +1,10 @@
+cars|id|int|pk
+cars|company|varchar|8000
+cars|model|varchar|255
+bikes|id|int|pk
+bikes|company|varchar|8000
+bikes|speed|int
+people|id|int|pk
+people|first_name|varchar|64
+people|last_name|varchar|64
+people|age|int
