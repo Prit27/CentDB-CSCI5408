@@ -2,7 +2,7 @@
 
 * *Date Created*: Sep 2021
 * *Last Modification Date*: Dec 2021
-* *Git URL*: <https://github.com/Prit27/EqvyPay-CSCI5308>
+* *Git URL*: <https://github.com/Prit27/CentDB-CSCI5408>
 
 ## Getting Started
 
