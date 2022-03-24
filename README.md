@@ -48,6 +48,6 @@ However, I plan to add a dockerized version of the service soon!
 framework used
 ```
 
-## Getting Started
+## Acknowledgments
 
 * Data Warehousing and Analytics - Dalhousie University
